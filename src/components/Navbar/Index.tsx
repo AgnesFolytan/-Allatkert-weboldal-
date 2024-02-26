@@ -2,6 +2,7 @@ import './Index.css'
 import 'bootstrap/dist/css/bootstrap-grid.min.css'
 
 export function Navbar(){
+    return
     <nav className="navbar navbar-expand-lg bg-danger-subtle">
         <div className="container-fluid">
         <span className="navbar-brand">Fény Fauna Állatkert</span>
@@ -11,19 +12,19 @@ export function Navbar(){
         <div className="collapse navbar-collapse" id="navbarNav">
         <ul className="navbar-nav">
         <li className="nav-item">
-        <a className="nav-link active" aria-current="page" href="index.html">Főoldal</a>
+        <a className="nav-link active" aria-current="page" href="/">Főoldal</a>
         </li>
         <li className="nav-item">
-        <a className="nav-link" href="etlap.html">Programok</a>
+        <a className="nav-link" href="/programok">Programok</a>
         </li>
         <li className="nav-item">
-        <a className="nav-link" href="etlap.html">Állatok</a>
+        <a className="nav-link" href="/allatok">Állatok</a>
         </li>
         <li className="nav-item">
-        <a className="nav-link" href="nyitvatartas.html">Nyitvatartás</a>
+        <a className="nav-link" href="/nyitvatartas">Nyitvatartás</a>
         </li>
         <li className="nav-item">
-        <a className="nav-link" href="kapcsolat.html">Kapcsolat</a>
+        <a className="nav-link" href="/kapcsolat">Kapcsolat</a>
         </li>
         </ul>
         </div>
