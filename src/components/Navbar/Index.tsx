@@ -2,8 +2,7 @@ import './Index.css'
 import 'bootstrap/dist/css/bootstrap-grid.min.css'
 
 export function Navbar(){
-    return
-    <nav className="navbar navbar-expand-lg bg-danger-subtle">
+    return<nav className="navbar navbar-expand-lg bg-danger-subtle">
         <div className="container-fluid">
         <span className="navbar-brand">Fény Fauna Állatkert</span>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
