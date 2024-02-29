@@ -3,25 +3,25 @@ import 'bootstrap/dist/css/bootstrap-grid.min.css'
 
 export function Navbar(){
     return <div id="app">
-    <nav className="navbar navbar-expand-lg bg-danger-subtle">
+    <nav className="navbar navbar-expand-lg" id='navbarBg'>
       <div className="container-fluid">
-        <span className="navbar-brand">Fény Fauna Állatkert</span>
+        <span className="navbar-brand" id='text'>Fény Fauna Állatkert</span>
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav">
             <li className="nav-item">
-              <a className="nav-link active" aria-current="page" href="/">Főoldal</a>
+              <a className="nav-link active" aria-current="page" id='textLink' href="/">Főoldal</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="/allatok">Állatok</a>
+              <a className="nav-link" id='textLink' href="/allatok">Állatok</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="/programok">Programok</a>
+              <a className="nav-link" id='textLink' href="/programok">Programok</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="/nyitvatartas">Nyitvatartás</a>
+              <a className="nav-link" id='textLink' href="/nyitvatartas">Nyitvatartás</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="/kapcsolat">Kapcsolat</a>
+              <a className="nav-link" id='textLink' href="/kapcsolat">Kapcsolat</a>
             </li>
           </ul>
         </div>

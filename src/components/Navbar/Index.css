@@ -1,0 +1,16 @@
+#navbarBg{
+    background-color: #355E3B;
+}
+
+#text {
+    color: white;
+}
+
+#textLink{
+    color: white;
+    
+}
+
+#textLink:hover{
+    color: #ACE1AF;
+}
