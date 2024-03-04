@@ -8,6 +8,6 @@
    background-color: #ACE1AF;
 }
 
-thead{
+.table-striped>thead{
     background-color: #355E3B;
 }
