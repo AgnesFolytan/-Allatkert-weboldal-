@@ -3,7 +3,7 @@ import './Kapcsolat.css'
 function Kapcsolat(){
     return (
         <div>
-          <p>kapcsolat</p>
+          <h1>Kapcsolat</h1>
         </div>    
       )
 }
