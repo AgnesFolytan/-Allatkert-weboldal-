@@ -1,3 +1,5 @@
+import './Kapcsolat.css'
+
 function Kapcsolat(){
     return (
         <div>
