@@ -10,3 +10,4 @@ function Kapcsolat(){
 }
 
 export default Kapcsolat;
+//Dominik Volt;
