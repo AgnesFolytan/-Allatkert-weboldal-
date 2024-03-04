@@ -5,7 +5,8 @@ export function Navbar(){
     return <div id="app">
     <nav className="navbar navbar-expand-lg" id='navbarBg'>
       <div className="container-fluid">
-        <span className="navbar-brand" id='text'>Fény Fauna Állatkert</span>
+        <span className="navbar-brand" id='text'>
+          <img src="../../../img/icon.png" width={50}/>&ensp;Fény Fauna Állatkert</span>
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav">
             <li className="nav-item">

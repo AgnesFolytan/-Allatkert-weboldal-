@@ -1,3 +1,13 @@
 table{
     text-align: center;
 }
+.adat{
+    color: black;
+}
+.adat:hover{
+    color: #355E3B;
+
+}
+img{
+    size: 1%;
+}
