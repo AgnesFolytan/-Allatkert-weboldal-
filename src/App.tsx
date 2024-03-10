@@ -5,7 +5,6 @@ import Allatok from './Allatok'
 import Programok from './Programok'
 import Nyitvatartas from './Nyitvatartas'
 import Kapcsolat from './Kapcsolat'
-import Jegyvasarlas from './Jegyvasarlas'
 import { useState } from 'react'
 import { BrowserRouter, Route, Routes} from 'react-router-dom'
 
