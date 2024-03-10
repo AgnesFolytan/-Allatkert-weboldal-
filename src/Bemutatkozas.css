@@ -1,0 +1,20 @@
+#kezdes{
+    font-weight: bolder;
+    text-align: center;
+    text-shadow: 4cm;
+    margin: 35px;
+}
+
+#tartalom{
+    margin: 20px;
+}
+
+#leiras{
+    margin-left: 40px;
+    color: #355E3B;
+    text-align: justify;
+}
+
+ul{
+    font-weight: 560;
+}

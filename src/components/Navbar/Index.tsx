@@ -10,19 +10,22 @@ export function Navbar(){
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav">
             <li className="nav-item">
-              <a className="nav-link active" aria-current="page" id='textLink' href="/">Főoldal</a>
+              <a className="nav-link scrollto active" aria-current="page" id='textLink' href="/">Főoldal</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" id='textLink' href="/allatok">Állatok</a>
+              <a className="nav-link scrollto active" id='textLink' href="/allatok">Állatok</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" id='textLink' href="/programok">Programok</a>
+              <a className="nav-link scrollto active" id='textLink' href="/programok">Programok</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" id='textLink' href="/nyitvatartas">Nyitvatartás</a>
+              <a className="nav-link scrollto active" id='textLink' href="/nyitvatartas">Nyitvatartás</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" id='textLink' href="/kapcsolat">Kapcsolat</a>
+              <a className="nav-link scrollto active" id='textLink' href="/kapcsolat">Kapcsolat</a>
+            </li>
+            <li className="nav-item">
+              <a className="nav-link scrollto active" id='textLink' href="/jegyvasarlas">Jegyvásárlás</a>
             </li>
           </ul>
         </div>
