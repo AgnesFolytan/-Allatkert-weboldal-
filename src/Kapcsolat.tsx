@@ -5,7 +5,7 @@ function Kapcsolat(){
       <div>
         <table className="table">
   <thead>
-    <tr><th colSpan={2}>
+    <tr><th colSpan={3}>
     <h1>Kapcsolat</h1>
     </th></tr>
   </thead>
@@ -32,11 +32,15 @@ function Kapcsolat(){
     </td>
     <td>Social media
       <br></br>
-      <a href=''><img width={50} src='https://th.bing.com/th/id/R.26d9974a1feec9905a4e0d5e5ddf8db6?rik=Og1ujXM2C1AJHQ&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fa%2fa5%2fInstagram_icon.png&ehk=1%2fZWXYn2nN%2fR80TOtcKH5SsdLkkUvMLrB%2fHUXRDHk9I%3d&risl=&pid=ImgRaw&r=0'></img></a>
       <br></br>
-      <a href=''><img></img></a>
-      <a href=''><img width={50} src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_(2017).svg/2560px-YouTube_full-color_icon_(2017).svg.png'></img></a>
-      <a href=''></a></td>
+      <a href='https://www.instagram.com/'><img width={50} src='https://th.bing.com/th/id/R.26d9974a1feec9905a4e0d5e5ddf8db6?rik=Og1ujXM2C1AJHQ&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fa%2fa5%2fInstagram_icon.png&ehk=1%2fZWXYn2nN%2fR80TOtcKH5SsdLkkUvMLrB%2fHUXRDHk9I%3d&risl=&pid=ImgRaw&r=0'></img></a>
+      <br></br>
+      <br></br>
+      <a href='https://hu-hu.facebook.com/'><img width={50} src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_(2017).svg/2560px-YouTube_full-color_icon_(2017).svg.png'></img></a>
+      <br></br><br></br>
+      Elhelyezkedés
+      <br></br><br></br>
+      <a href='https://www.google.com/maps'><img width={50} src='https://s3.amazonaws.com/images.seroundtable.com/google-maps-icon-1580992464.png'></img></a></td>
   </tr>
   </tbody>
 </table>
