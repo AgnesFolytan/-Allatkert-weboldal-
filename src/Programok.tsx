@@ -1,3 +1,6 @@
+import './Programok.css'
+
+
 function Programok(){
     return (
         <div>
