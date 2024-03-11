@@ -9,95 +9,95 @@ function Programok(){
           <tr>
             <th></th>
             <th></th>
-            <th>Állatkert</th>
-            <th>Belépés</th>
-            <th>Állatházak*</th>
+            <th>Programok</th>
+            <th>Program Kezdete</th>
+            <th>Program Végződése</th>
           </tr>
         </thead>
         <tbody>
           <tr>
             <th scope="row">Január</th>
             <td>minden nap</td>
-            <td>9:00-16:00</td>
-            <td>15:00-ig</td>
-            <td>9:00-15:30</td>
+            <td>Majom etetés és bemutató<br />Pingvin show a jegesmedencében</td>
+            <td>10:00-től<br />12:30-tól</td>
+            <td>11:00-ig<br />14:00-ig</td>
           </tr>
           <tr>
           <th scope="row">Ferbuár</th>
             <td>minden nap</td>
-            <td>9:00-16:00</td>
-            <td>15:00-ig</td>
-            <td>9:00-15:30</td>
+            <td>Elefánt fűrdetés<br />Ragadozómadár bemutató</td>
+            <td>12:00-től<br />14:30-tól</td>
+            <td>13:00-ig<br />16:00-ig</td>
           </tr>
           <tr>
             <th scope="row">Március</th>
             <td>hétfőtől péntekig<br />hétvégén és ünnepnapokon</td>
-            <td>9:00-17:00<br />9:00-17:30</td>
-            <td>16:00-ig<br/>16:30-ig</td>
-            <td>9:00-16:30<br/>9:00-17:00</td>
+            <td>Krokodil táplálkozási bemutató<br />Akváriumokban való hal etetés</td>
+            <td>10:00-től<br />12:30-tól</td>
+            <td>11:00-ig<br />14:00-ig</td>
           </tr>
           <tr>
             <th scope="row">Április</th>
             <td>hétfőtől péntekig<br />hétvégén és ünnepnapokon</td>
-            <td>9:00-17:30<br/>9:00-18:00</td>
-            <td>16:30-ig<br/>17:00-ig</td>
-            <td>9:00-17:00<br/>9:00-17:30</td>
+            <td>Delfinshow<br />Zsiráfetetés interaktív élmény</td>
+            <td>10:00-től<br />12:30-tól</td>
+            <td>11:00-ig<br />14:00-ig</td>
           </tr>
           <tr>
             <th scope="row">Május</th>
             <td>hétfőtől péntekig<br />hétvégén és ünnepnapokon</td>
-            <td>9:00-18:00<br/>9:00-19:00</td>
-            <td>17:00-ig<br/>18:00-ig</td>
-            <td>9:00-17:00<br/>9:00-18:30</td>
+            <td>Kenguruk közötti séta<br />Fóka show a tengeri medencében</td>
+            <td>10:00-től<br />12:30-tól</td>
+            <td>11:00-ig<br />14:00-ig</td>
           </tr>
           <tr>
             <th scope="row">Június</th>
             <td>hétfőtől péntekig<br />hétvégén és ünnepnapokon</td>
-            <td>9:00-18:00<br/>9:00-19:00</td>
-            <td>17:00-ig<br/>18:00-ig</td>
-            <td>9:00-17:00<br/>9:00-18:30</td>
+            <td>Szafari buszos túra a nagyobb területeken<br />Medve tréning és oktatás</td>
+            <td>12:00-től<br />14:30-tól</td>
+            <td>13:00-ig<br />16:00-ig</td>
           </tr>
           <tr>
             <th scope="row">Július</th>
             <td>hétfőtől péntekig<br />hétvégén és ünnepnapokon</td>
-            <td>9:00-18:00<br/>9:00-19:00</td>
-            <td>17:00-ig<br/>18:00-ig</td>
-            <td>9:00-17:00<br/>9:00-18:30</td>
+            <td>Zebrafuttatás a bagy kifutóban<br />Koalabemutató és információs előadás</td>
+            <td>10:00-től<br />12:30-tól</td>
+            <td>11:00-ig<br />14:00-ig</td>
           </tr>
           <tr>
             <th scope="row">Augusztus</th>
             <td>hétfőtől péntekig<br />hétvégén és ünnepnapokon</td>
-            <td>9:00-18:00<br/>9:00-19:00</td>
-            <td>17:00-ig<br/>18:00-ig</td>
-            <td>9:00-17:00<br/>9:00-18:30</td>
+            <td>Kaméleonok és gyíkok kiállítás<br />Állatkerti állatokra fókuszáló gyerekfoglalkozás</td>
+            <td>10:00-től<br />12:30-tól</td>
+            <td>11:00-ig<br />14:00-ig</td>
           </tr>
           <tr>
             <th scope="row">Szeptember</th>
             <td>hétfőtől péntekig<br />hétvégén és ünnepnapokon</td>
-            <td>9:00-17:30<br/>9:00-18:00</td>
-            <td>16:30-ig<br/>17:00-ig</td>
-            <td>9:00-17:00<br/>9:00-17:30</td>
+            <td>Vadmacska etetés és magyarázat<br />Viziló pancsolás a tavacska mellett</td>
+            <td>12:00-től<br />14:30-tól</td>
+            <td>13:00-ig<br />16:00-ig</td>
           </tr>
           <tr>
             <th scope="row">Október</th>
             <td>hétfőtől péntekig<br />hétvégén és ünnepnapokon</td>
-            <td>9:00-17:00<br/>9:00-17:30</td>
-            <td>16:00-ig<br/>16:30-ig</td>
-            <td>9:00-16:30<br/>9:00-17:00</td>
+            <td>Színes pillangó kiállítás<br />Alpakafuttatás és simogatás</td>
+            <td>10:00-től<br />11:30-tól</td>
+            <td>11:00-ig<br />14:30-ig</td>
           </tr>
           <tr>
-            <th scope="row">Október</th>
+            <th scope="row">November</th>
             <td>minden nap</td>
-            <td>9:00-16:00</td>
-            <td>15:00-ig</td>
-            <td>9:00-15:30</td>
+            <td>Fókaetetés és interaktív program<br />Kézműves foglalkozások</td>
+            <td>10:00-től<br />12:30-tól</td>
+            <td>11:00-ig<br />14:00-ig</td>
           </tr>
           <tr>
             <th scope="row">December</th>
             <td>minden nap<br/><b>kivéve:</b><br/>december 24-én<br/>és<br/>december 31-én</td>
-            <td>9:00-16:00<br/>9:00-13:00<br/>9:00-13:00</td>
-            <td>15:00-ig<br/>12:00-ig<br/>12:00-ig</td>
-            <td>9:00-15:30<br/>9:00-12:30<br/>9:00-12:30</td>
+            <td>Tevegelés<br />Tigris tréning</td>
+            <td>15:00-től<br />9:30-tól</td>
+            <td>16:30-ig<br />11:00-ig</td>
           </tr>
         </tbody>
       </table>
