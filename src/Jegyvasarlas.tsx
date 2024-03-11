@@ -3,7 +3,9 @@ import './Jegyvasarlas.css'
 function Jegyvasarlas(){
     return (
         <div>
-          <p>program</p>
+          <h1>Jegyvásárlás</h1>
+          <hr></hr>
+          <h3>Bejelentkezés:</h3>
         </div>    
       )
 }

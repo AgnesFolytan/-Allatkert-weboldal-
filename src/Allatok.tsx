@@ -3,8 +3,7 @@ import { Animal, Animals } from './animals';
 
 function Allatok(){
 
-  const [ animals, setAnimals ] = useState([] as Animals[])
-  const [ newAnimal, setNewAnimal ] = useState('')
+  const [ animals, setAnimals ] = useState([] as Animal[])
   const [ searchTerm, setSearchTerm ] = useState('')
 
   useEffect(() => {
@@ -19,21 +18,23 @@ function Allatok(){
 
   useEffect( ()=>{
     console.log("Változás történt a animals tömbben..." + animals.length);
-    document.title = `Létszám: ${animals.length}`;
+
   }, [animals] )
 
-  const kivalogatott = animals.filter( animal => animal.kategoria );
+
+  const kivalogatott = animals.filter( animal => animal.category.includes(searchTerm) );
 
   return <div>
     <h3>Keresés:</h3>
+    
     <input type="text" placeholder="Add meg a keresendő Részleget!" 
-      onInput={ e => { 
-        setSearchTerm(e.currentTarget.value), 
+      onInput={ e => {  
+        setSearchTerm(e.currentTarget.value)
         console.log(e.currentTarget.value)
         }
       }
     ></input>
-
+    
     <h3>Állataink:</h3>
     <table>
       <thead>
@@ -45,8 +46,8 @@ function Allatok(){
       <tbody>
         {
           kivalogatott.map(animal => <tr>
-          <td>{animal.fajta}</td>
-          <td>{animal.kategoria}</td>
+          <td>{animal.name}</td>
+          <td>{animal.category}</td>
         </tr>
         )}
       </tbody>
