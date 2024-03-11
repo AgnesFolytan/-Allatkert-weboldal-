@@ -3,7 +3,7 @@ import 'bootstrap/dist/css/bootstrap-grid.min.css'
 
 export function Navbar(){
     return <div id="app">
-    <nav className="navbar navbar-expand-lg" id='navbarBg'>
+    <nav className="navbar navbar-expand-lg navbar-fixed-top " id='navbarBg'>
       <div className="container-fluid">
         <span className="navbar-brand" id='text'>
           <img src="../../../img/icon.png" width={50}/>&ensp;Fény Fauna Állatkert</span>
