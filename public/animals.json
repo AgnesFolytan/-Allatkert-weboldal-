@@ -1,0 +1,249 @@
+{
+    "animals": [
+ {
+  "id": 1,
+  "name": "Lovak/szamarak",
+  "category": "Farm rész"
+ },
+ {
+  "id": 2,
+  "name": "Disznó",
+  "category": "Farm rész"
+ },
+ {
+  "id": 3,
+  "name": "Bárány",
+  "category": "Farm rész"
+ },
+ {
+  "id": 4,
+  "name": "Kecske",
+  "category": "Farm rész"
+ },
+ {
+  "id": 5,
+  "name": "Tyúk",
+  "category": "Farm rész"
+ },
+ {
+  "id": 6,
+  "name": "Láma",
+  "category": "Farm rész"
+ },
+ {
+  "id": 7,
+  "name": "Teve",
+  "category": "Szavanna/Sivatag rész"
+ },
+ {
+  "id": 8,
+  "name": "Zsiráf",
+  "category": "Szavanna/Sivatag rész"
+ },
+ {
+  "id": 9,
+  "name": "Zebra",
+  "category": "Szavanna/Sivatag rész"
+ },
+ {
+  "id": 10,
+  "name": "Elefánt",
+  "category": "Szavanna/Sivatag rész"
+ },
+ {
+  "id": 11,
+  "name": "Rinocérosz",
+  "category": "Szavanna/Sivatag rész"
+ },
+ {
+  "id": 12,
+  "name": "Viziló",
+  "category": "Szavanna/Sivatag rész"
+ },
+ {
+  "id": 13,
+  "name": "Oroszlán",
+  "category": "Szavanna/Sivatag rész"
+ },
+ {
+  "id": 14,
+  "name": "Gepárd",
+  "category": "Szavanna/Sivatag rész"
+ },
+ {
+  "id": 15,
+  "name": "Kenguru",
+  "category": "Szavanna/Sivatag rész"
+ },
+ {
+  "id": 16,
+  "name": "Emu & strucc",
+  "category": "Szavanna/Sivatag rész"
+ },
+ {
+  "id": 17,
+  "name": "Hiéna",
+  "category": "Szavanna/Sivatag rész"
+ },
+ {
+  "id": 18,
+  "name": "Sarki farkas",
+  "category": "Tundra/sarki rész"
+ },
+ {
+  "id": 19,
+  "name": "Rénszarvas",
+  "category": "Tundra/sarki rész"
+ },
+ {
+  "id": 20,
+  "name": "Sarki róka",
+  "category": "Tundra/sarki rész"
+ },
+ {
+  "id": 21,
+  "name": "Pingvin",
+  "category": "Tundra/sarki rész"
+ },
+ {
+  "id": 22,
+  "name": "Fóka",
+  "category": "Tundra/sarki rész"
+ },
+ {
+  "id": 23,
+  "name": "Jegesmedve",
+  "category": "Tundra/sarki rész"
+ },
+ {
+  "id": 24,
+  "name": "Hópárduc",
+  "category": "Tundra/sarki rész"
+ },
+ {
+  "id": 25,
+  "name": "Különböző halfajak édes és sós",
+  "category": "Vizi állatok"
+ },
+ {
+  "id": 26,
+  "name": "Vidra",
+  "category": "Vizi állatok"
+ },
+ {
+  "id": 27,
+  "name": "Delfin",
+  "category": "Vizi állatok"
+ },
+ {
+  "id": 28,
+  "name": "Teknősök",
+  "category": "Vizi állatok"
+ },
+ {
+  "id": 29,
+  "name": "Rákok",
+  "category": "Vizi állatok"
+ },
+ {
+  "id": 30,
+  "name": "Vizicsiko",
+  "category": "Vizi állatok"
+ },
+ {
+  "id": 31,
+  "name": "Tengeri csillag",
+  "category": "Vizi állatok"
+ },
+ {
+  "id": 32,
+  "name": "Hangyász",
+  "category": "Mérsékleti állatok"
+ },
+ {
+  "id": 33,
+  "name": "Szarvasok",
+  "category": "Mérsékleti állatok"
+ },
+ {
+  "id": 34,
+  "name": "Róka",
+  "category": "Mérsékleti állatok"
+ },
+ {
+  "id": 35,
+  "name": "Préri farkas",
+  "category": "Mérsékleti állatok"
+ },
+ {
+  "id": 36,
+  "name": "Bölény",
+  "category": "Mérsékleti állatok"
+ },
+ {
+  "id": 37,
+  "name": "Barna medve",
+  "category": "Mérsékleti állatok"
+ },
+ {
+  "id": 38,
+  "name": "Mosómedve",
+  "category": "Mérsékleti állatok"
+ },
+ {
+  "id": 39,
+  "name": "Tukán",
+  "category": "Dzsungeli állatok"
+ },
+ {
+  "id": 40,
+  "name": "Gorilla",
+  "category": "Dzsungeli állatok"
+ },
+ {
+  "id": 41,
+  "name": "Csimpánz",
+  "category": "Dzsungeli állatok"
+ },
+ {
+  "id": 42,
+  "name": "Tigris",
+  "category": "Dzsungeli állatok"
+ },
+ {
+  "id": 43,
+  "name": "Leopárd",
+  "category": "Dzsungeli állatok"
+ },
+ {
+  "id": 44,
+  "name": "Lajhár",
+  "category": "Dzsungeli állatok"
+ },
+ {
+  "id": 45,
+  "name": "Füles Bagoly",
+  "category": "Madarak/repülő állatok"
+ },
+ {
+  "id": 46,
+  "name": "Réti Sas",
+  "category": "Madarak/repülő állatok"
+ },
+ {
+  "id": 47,
+  "name": "Héja",
+  "category": "Madarak/repülő állatok"
+ },
+ {
+  "id": 48,
+  "name": "Keselyű",
+  "category": "Madarak/repülő állatok"
+ },
+ {
+  "id": 49,
+  "name": "Denevérek",
+  "category": "Madarak/repülő állatok"
+ }
+]
+}
