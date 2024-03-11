@@ -82,7 +82,7 @@ function Programok(){
             <th scope="row">Október</th>
             <td>hétfőtől péntekig<br />hétvégén és ünnepnapokon</td>
             <td>Színes pillangó kiállítás<br />Alpakafuttatás és simogatás</td>
-            <td>10:00-től<br />12:30-tól</td>
+            <td>10:00-től<br />11:30-tól</td>
             <td>11:00-ig<br />14:30-ig</td>
           </tr>
           <tr>
