@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react'
 import { Animal, Animals } from './animals';
+import './Allatok.css'
 
 function Allatok(){
 
@@ -36,7 +37,7 @@ function Allatok(){
     ></input>
     
     <h3>Állataink:</h3>
-    <table>
+    <table className="table table-striped">
       <thead>
         <tr>
           <th>Állat</th>

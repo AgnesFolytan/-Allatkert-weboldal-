@@ -3,7 +3,7 @@ import './Kapcsolat.css'
 function Kapcsolat(){
     return (
       <div>
-        <table className="table">
+        <table className="table table-striped">
   <thead>
     <tr><th colSpan={3}>
     <h1>Kapcsolat</h1>
