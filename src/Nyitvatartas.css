@@ -7,7 +7,3 @@
 .table-striped>tbody>tr:nth-child(even)>th {
    background-color: #ACE1AF;
 }
-
-.table-striped>thead{
-    background-color: #355E3B;
-}
