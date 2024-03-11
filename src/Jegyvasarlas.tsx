@@ -24,7 +24,7 @@ function Jegyvasarlas(){
     
   }, [users] )
 
-  const kivalogatott = users.filter( user => user.username.includes(searchTerm) );
+  const kivalogatott = users;
     return (
         <div>
           <h1>Jegyvásárlás</h1>
@@ -44,11 +44,15 @@ function Jegyvasarlas(){
       }
     } /><br></br>
     <button onClick={()=>{
+      
+      
       kivalogatott.map(animal=>
-        {if (animal.username==searchTerm && animal.password== searchTermPass){
-          console.log("Sikeres bejelentkezés!");
-      }})
-    }}>Bejelentkezés</button>
+        {
+          
+          if (animal.username==searchTerm && animal.password== searchTermPass){
+          console.log("Sikeres bejelentkezés!")
+      }
+    })}}>Bejelentkezés</button>
         </div>    
       )
 }
